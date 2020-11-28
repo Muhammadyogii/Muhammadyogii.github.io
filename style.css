@@ -256,7 +256,7 @@ body{
 
  }
 }
-@media (max-width: 768px){
+@media (max-width: 600px){
 	.menu{
 		order: -1;
 		justify-items:end;
