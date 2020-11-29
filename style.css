@@ -210,8 +210,8 @@ body{
 .footer {
 	display: grid;
 	background-color: orange;
-        width: 360px;
-	height:360;
+	text-align: center;
+	min-width: 340px;
 	background-position: center;
 	margin-top: 10px;
 
@@ -242,7 +242,7 @@ body{
 .info {
 	display: grid;
 	background-color: black;
-	min-width:  360px;
+	min-width:340px;
 	background-position: center;
 	gap:5px;
 	margin-top:10px;
