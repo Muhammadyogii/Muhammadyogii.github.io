@@ -210,7 +210,8 @@ body{
 .footer {
 	display: grid;
 	background-color: orange;
-	min-width: 360px;
+        width: 360px;
+	height:360;
 	background-position: center;
 	margin-top: 10px;
 
